@@ -1,0 +1,9 @@
+{
+    "reactSnippets.settings.prettierEnabled": false,
+    "editor.language.brackets": [],
+    "cSpell.words": [
+        "toonflix"
+    ],
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+    "cmake.sourceDirectory": "/Users/jangjunho/studyflutter/toonflix/linux"
+}
